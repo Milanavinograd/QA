@@ -1,0 +1,29 @@
+  body {
+    font-size: 22px;
+    Line-height: 34px;
+  }
+  
+  header,
+  nav {
+    background-color:palevioletred;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  h1,
+  h2 {
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+
+  header {
+    padding: 100 px 0px 50 px;
+  } 
+  
+  h1 {
+    margin-bottom: 10 px;
+  }
+  
+  .landing-section-whoami {
+  padding-top: 50 px;
+  }
+
